@@ -41,7 +41,3 @@
 <img src="https://raw.githubusercontent.com/nexzudev/nexzudev/output/snake.svg" alt="Snake animation" />
 
 ###
-  <img src="https://count.getloli.com/@:nexzudev?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
