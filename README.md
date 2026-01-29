@@ -35,9 +35,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/nexzudev/nexzudev/output/snake.svg" alt="Snake animation" />
-
-###
