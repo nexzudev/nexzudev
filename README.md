@@ -27,5 +27,6 @@
 <div align="center">
   <a href="https://discord.com/users/TU_ID" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" height="24"/></a>
   <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="24"/></a>
-  <!-- Agrega tus links reales si quieres -->
+  <a href="https://youtube.com/@nexzudv" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" height="24"/></a>
+  <!-- Agrega más si tienes (ej. X/Twitter, LinkedIn) -->
 </div>
