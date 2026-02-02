@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Richard (Nexzu Dev)</h1>
+<h1 align="center">Hey 👋, I'm Nexzu </h1>
 
 <p align="center">
   <strong>Aspiring Full-Stack Developer</strong> | JavaScript • React • TypeScript • Java • And more...
