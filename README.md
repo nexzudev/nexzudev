@@ -10,19 +10,6 @@
 
 <br>
 
-## 🌐 Connect with me
-<div align="center">
-  <a href="https://discord.com/users/TU_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30"/>
-  </a>
-  <a href="mailto:tuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
-  </a>
-  <!-- Agrega más: YouTube, X/Twitter, LinkedIn, etc. con shields.io para que carguen 100% -->
-</div>
-
-<br>
-
 ## 🛠️ Technologies & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,git,linux,bash,vscode" alt="Skills Icons" />
@@ -32,28 +19,14 @@
 
 <br>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nexzudev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexzudev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexzudev&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
-
-<br>
-
-## 🚀 Featured Projects (coming soon – pin them!)
-- **Weather App** → Fetch API + React
-- **Portfolio Site** → Deployed on Vercel/Netlify
-- **To-Do Full-Stack** → Node + Mongo
-
-<!-- Agrega más cuando los tengas. Pinéalos en GitHub para que aparezcan arriba -->
-
-<br>
-
 <p align="center">
   <i>"Code. Learn. Repeat. 🚀"</i><br>
   Thanks for visiting! Feel free to star my repos or say hi 😄
 </p>
+
+<div align="center">
+  <!-- Simple icons sin texto grande -->
+  <a href="https://discord.com/users/TU_ID" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" height="24"/></a>
+  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="24"/></a>
+  <!-- Agrega más si quieres: YouTube, X, etc. -->
+</div>
