@@ -15,6 +15,8 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,git,linux,bash,vscode" alt="Skills Icons" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=java,blender,nodejs,express,mongodb" alt="Extra Skills" />
+  <!-- Ícono de Minecraft agregado aquí (solo el Creeper, discreto) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Minecraft-creeper-face.svg" width="60" height="60" alt="Minecraft" style="margin: 0 12px;" />
 </div>
 
 <br>
@@ -29,6 +31,4 @@
   <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="24"/></a>
   <a href="https://youtube.com/@nexzudv" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" height="24"/></a>
   <a href="https://linktr.ee/nexzu.dv" target="_blank"><img src="https://img.shields.io/badge/-Linktree-00C9A7?style=flat&logo=linktree&logoColor=white" height="24"/></a>
-  <!-- Solo el ícono de Minecraft (Creeper face) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Minecraft-creeper-face.svg" width="28" height="28" alt="Minecraft" style="margin-left: 10px;" />
 </div>
