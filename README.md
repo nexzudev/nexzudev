@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <i>"Code. Learn. Repeat. 🚀"</i><br>
+  </i><br>
   Thanks for visiting! Feel free to star my repos or say hi 😄
 </p>
 
