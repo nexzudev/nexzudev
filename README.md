@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Richard (Nexzu Dev)</h1>
 
 <p align="center">
-  <strong>Aspiring Full-Stack Developer</strong> | JavaScript • React • TypeScript
+  <strong>Aspiring Full-Stack Developer</strong> | JavaScript • React • TypeScript • Java • And more...
 </p>
 
 <div align="center">
@@ -28,5 +28,6 @@
   <a href="https://discord.com/users/TU_ID" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" height="24"/></a>
   <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="24"/></a>
   <a href="https://youtube.com/@nexzudv" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" height="24"/></a>
-  <!-- Agrega más si tienes (ej. X/Twitter, LinkedIn) -->
+  <a href="https://linktr.ee/nexzu.dv" target="_blank"><img src="https://img.shields.io/badge/-Linktree-00C9A7?style=flat&logo=linktree&logoColor=white" height="24"/></a>
+  <!-- Agrega más si quieres (Patreon, etc.) -->
 </div>
