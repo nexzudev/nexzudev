@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Richard (Nexzu Dev)</h1>
 
 <p align="center">
-  <strong>Aspiring Full-Stack Developer</strong> | Learning JavaScript, React, TypeScript & more in 2026
+  <strong>Aspiring Full-Stack Developer</strong> | JavaScript • React • TypeScript
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Building+cool+things+one+line+at+a+time;Currently+leveling+up+in+web+dev;Open+to+collaborations+&+feedback!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=2000&color=e0e0e0&center=true&vCenter=true&width=600&lines=Building+cool+things+one+line+at+a+time;Leveling+up+in+web+development+every+day;Open+to+collaborations+and+feedback!" alt="Typing SVG" />
 </div>
 
 <br>
@@ -25,8 +25,7 @@
 </p>
 
 <div align="center">
-  <!-- Simple icons sin texto grande -->
   <a href="https://discord.com/users/TU_ID" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" height="24"/></a>
   <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="24"/></a>
-  <!-- Agrega más si quieres: YouTube, X, etc. -->
+  <!-- Agrega más links si quieres -->
 </div>
