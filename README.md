@@ -15,8 +15,8 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,git,linux,bash,vscode" alt="Skills Icons" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=java,blender,nodejs,express,mongodb" alt="Extra Skills" />
-  <!-- Ícono de Minecraft agregado aquí (solo el Creeper, discreto) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Minecraft-creeper-face.svg" width="60" height="60" alt="Minecraft" style="margin: 0 12px;" />
+  <!-- Minecraft ícono minimal redondeado -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Minecraft-creeper-face.svg" width="60" height="60" alt="Minecraft" style="margin: 0 12px; border-radius: 50%;" />
 </div>
 
 <br>
