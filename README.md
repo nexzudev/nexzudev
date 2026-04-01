@@ -22,7 +22,20 @@
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></a><a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a><a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a><a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /></a><a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a><a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a><a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /></a><a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a><a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a><a href="https://bun.sh" target="_blank"><img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" /></a><a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /></a><a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a><a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /></a><a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+  </a><a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  </a><a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  </a><a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+  </a><a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+  </a><a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+  </a><a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+  </a><a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  </a><a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  </a><a href="https://bun.sh" target="_blank"><img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
+  </a><a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+  </a><a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  </a><a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+  </a><a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a>
 </div>
 
 ---
