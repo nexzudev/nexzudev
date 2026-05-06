@@ -4,7 +4,7 @@
 
 > *Im Nexzu...🙌*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Trying+become+Full-stack+developer;Open+source+contributor;CS50x+student;Always+learning;Entring+to+hardvard+student+its+my+dream)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Trying+become+Full-stack+developer;Open+source+contributor;CS50x+student;Always+learning;Entring+to+Hardvard+student+its+my+dream)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,7 +28,7 @@ CS fundamentals         ██░░░░░░░░░░░░░░░░�
 |---------|--------|
 | Short | Ship 3+ solid projects, contribute to open source |
 | Mid | CS degree with strong research experience |
-| Long | Graduate studies at a hardvard |
+| Long | Graduate studies at a Hardvard |
 
 
 ## 📁 Projects
