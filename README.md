@@ -34,8 +34,6 @@ CS fundamentals         ██░░░░░░░░░░░░░░░░�
 | Mid | CS degree with strong research experience |
 | Long | Graduate studies at a hardvard |
 
-## 📊 Activity
-https://github-readme-streak-stats.herokuapp.com/?user=nexzudev&theme=github-dark-blue&hide_border=true&background=0d1117
 
 ## 📁 Projects
 | Repo | Description |	Status|
