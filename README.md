@@ -9,7 +9,7 @@
 > *I'm Nexzu... 🙌*
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Trying+to+become+a+Full-Stack+Developer;Open+Source+Contributor;Always+Learning;Entering+Harvard+is+my+dream" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Trying+to+become+a+Full-Stack+Developer;Open+Source+Contributor;Always+Learning" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -46,11 +46,12 @@
   |  | (   | dev-ts BTW | /           Languages:
   )  |  \  `.___________|/
   `--'   `--'
-  HTML          ████████████████░░░░░░░░░░░░░░░░░░░░░░  40%
+  HTML          ████████████████████░░░░░░░░░░░░░░░░░░  40%
   CSS           ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
   JavaScript    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 
-    > Dream: Harvard CS  |  Mood: Building in public
+    > Goal: Build things that matter
+    > Mood: Building in public
   
 ```
 ---
