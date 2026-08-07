@@ -98,7 +98,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NotNexzu&show_icons=true&theme=transparent&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=CBA6F7&text_color=A6ADC8&rank_icon=github" height="180" alt="GitHub Stats" />
+[![NotNexzu GitHub stats](https://github-stats-extended.vercel.app/api?username=NotNexzu)](https://github.com/stats-organization/github-stats-extended)
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotNexzu&theme=transparent&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7&sideLabels=A6ADC8&dates=A6ADC8" height="180" alt="GitHub Streak" />
 
