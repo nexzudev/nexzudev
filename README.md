@@ -84,7 +84,7 @@
 │                              │  │         (in process)                            │
 │   [HTML5] [CSS3]             │  │ 🔧 ██░░░░░░░░░░░░░░░░░░░░ 10%                    |
 │                              │  │                                                 │
-│   First deployed site.       │  │  [HTML5] [CSS3] [Js] [vite] [nest js] [node js] |
+│   First deployed site.       │  │  [HTML5] [CSS3] [Js] [vite |
 │   Foundation for v2.         │  │  Building...                                    │
 │                              │  │  cat working...                                 │
 │                              │  │  masive update coming soon!!                    │
