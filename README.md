@@ -6,7 +6,7 @@
 
 # `<Hello {World}/>`
 
-> *I'm Nexzu... 🙌*
+> *I'm IKIKO... 🙌*
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Trying+to+become+a+Full-Stack+Developer;Open+Source+Contributor;Always+Learning" alt="Typing SVG" />
@@ -37,8 +37,8 @@
 ```text
   ,-.       _,---._ __  / \           notnexzu@nexzoar
  /  )    .-'       `./ /   \         ───────────────────
-(  (   ,'            `/    /|        OS: NotNexzu-curious Developer
- \  `-"             \'\   / |        Host: GitHub/NotNexzu
+(  (   ,'            `/    /|        OS: NotIKIKO-curious Developer
+ \  `-"             \'\   / |        Host: GitHub/NotIKIKO
   `.              ,  \ \ /  |        Kernel: Consistency > Intensity
    /`.          ,'-`----Y   |        Shell: /bin/bash/
   (            ;        |   '        Uptime: Always learning
@@ -142,13 +142,13 @@
 
 
 ```text
-[notnexzu@nexzoar ~] $ echo "Consistency > intensity."
+[notikiko@nexzoar ~] $ echo "Consistency > intensity."
 ```
 ```text
 Consistency > intensity.
 ```
 ```text
-[notnexzu@nexzoar ~] $ exit
+[notikiko@nexzoar ~] $ exit
 ```
 <div align="center">
 <img src="https://raw.githubusercontent.com/NotNexzu/NotNexzu/main/assets/take-water.gif" width="75%" alt="music cassette" />
